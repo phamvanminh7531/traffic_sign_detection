@@ -1,0 +1,7 @@
+train: /Nhan_TrafficSign/dataset/train/images
+val: /Nhan_TrafficSign/dataset/valid/images
+test: /Nhan_TrafficSign/dataset/test/images
+
+nc: 12
+names: ['102', '106b', '123a', '123b', '127', '128', '130', '131a', '207b', '225', '245a', '407a']
+

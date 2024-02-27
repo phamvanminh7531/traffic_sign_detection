@@ -1,0 +1,7 @@
+PyQt5
+cmake
+opencv-python
+ultralytics
+playsound
+matplotlib
+numpy
